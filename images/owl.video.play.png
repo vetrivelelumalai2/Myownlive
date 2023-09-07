@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head data-cast-api-enabled="true">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content>
+<meta name="keywords" content>
+<meta name="author" content="MIDESI">
+<link rel="canonical" href="https://www.midesi.net/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404-Page not Found</title>   
+<link rel="shortcut icon" href="favicon_64f78499197a0.png">
+<!-- Style Sheets -->
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../css/additional.css">
+<!-- Font Icons -->
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../css/ionicons.min.css">
+<link rel="stylesheet" type="text/css" href="../css/socicon-styles.css">
+<!-- Font Icons -->
+<link rel="stylesheet" type="text/css" href="../css/hover-min.css">
+<link rel="stylesheet" type="text/css" href="../css/animate.css">
+<link rel="stylesheet" type="text/css" href="../css/styles.css">
+<link rel="stylesheet" type="text/css" href="../css/responsive.css">
+
+
+
+<script src="../js/jquery-2.2.4.min.js" crossorigin="anonymous"></script>
+
+<!-- slider -->
+<link rel="stylesheet" type="text/css" href="../css/swiper.min.css">
+<link rel="stylesheet" type="text/css" href="../css/custom.css">
+
+
+
+ 
+
+
+<!-- typehead search  -->
+<script src="../js/jquery-ui.js"></script>
+<link href="../css/jquery-ui.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" href="../css/auto-complete.css">
+<!-- typehead search  -->
+<style type="text/css">
+    
+        :root {
+            --swiper-theme-color: #0088cc;
+            --primary-color:#0088cc;
+            --secenday-color:#0088c0;
+          }
+    .owl-carousel .owl-next,.owl-carousel .owl-prev {
+        background-color: var(--primary-color);
+    }
+    a{
+        color:var(--primary-color);
+    }
+    a:hover{
+       color:var(--secenday-color); 
+    }
+    .vjs-chromecast-button .vjs-icon-placeholder {
+        width: 18px;
+        height: 18px;
+    }
+</style>
+<style type="text/css">
+    .ribbon {
+                width: 110px;
+        height: 80px;
+        overflow: hidden;
+        position: absolute;
+        background: url(lock.png);
+        background-repeat: no-repeat;
+        overflow: hidden;
+    }
+    .ribbon-top-right {
+      bottom: 0px;
+      left: 0px;
+    }
+    .tv-ribbon{
+                top: 10px;
+        left: 5px;
+        position: absolute;
+        z-index: 6;
+        padding: 2px 11px;
+        background-color: #ffe22e;
+        color: #383737;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .modal-header{
+        background: var(--primary-color);
+        border-bottom: transparent;
+        color: #fff;
+    }
+    </style>
+<link rel="stylesheet" type="text/css" href="../css/blue.css">
+<link rel="stylesheet" type="text/css" href="../css/dark.css">
+    <style>
+        .bg_img {
+            background-image: url(bg.jpg);
+        }
+    </style>
+</head>
+    </head><body class="no-scroll-y">
+                        <!-- Preloader -->
+            <div id="preloader">
+                <div id="ovoo-preloader" class="ovoo-preloader">
+                    <div class="animation-preloader">
+                        <div class="spinner"></div>
+                        <div class="txt-loading">
+                            <span data-text-preloader="L" class="letters-loading">L</span>                            
+                            <span data-text-preloader="O" class="letters-loading">O</span>                            
+                            <span data-text-preloader="A" class="letters-loading">A</span>                            
+                            <span data-text-preloader="D" class="letters-loading">D</span>                            
+                            <span data-text-preloader="I" class="letters-loading">I</span>                            
+                            <span data-text-preloader="N" class="letters-loading">N</span>                            
+                            <span data-text-preloader="G" class="letters-loading">G</span>
+                        </div>
+                    </div>  
+                    <div class="loader-section section-left"></div>
+                    <div class="loader-section section-right"></div>
+                </div>
+            </div>
+            <!-- end preloader -->
+                    <div id="wrapper">
+            <div id="main-content">            
+            <style type="text/css">
+    #myFooter {
+    background-color: #232323;
+    }
+    #myFooter .footer-copyright {
+        background-color: #151414;
+    }
+</style>
+  <header class="topbar hidden-sm hidden-xs">
+    <div class="container">
+      <div class="row">
+          <div class="col-xs-12 col-sm-6">
+              <div class="top-info-left">
+                  <a href><i class="fa fa-envelope"></i>  midesi.net@gmail.com</a>
+                  <a href><i class="fa fa-phone"></i>  </a>
+              </div>
+          </div>
+          <!--- END COL -->
+          <div class="col-xs-12 col-sm-6">
+              <div class="top-info-right">
+                  <div class="social-icon">
+                      <ul class="list-inline list-unstyled">
+                      <li><a href="https://www.facebook.com/midesitv"><i class="fa fa-facebook"></i></a></li><li><a href="https://twitter.com/midesitv"><i class="fa fa-twitter"></i></a></li><li><a href="https://ok.ru/profile/581812392128"><i class="fa fa-vimeo"></i></a></li><li><a href="https://www.instagram.com/midesitv"><i class="fa fa-linkedin"></i></a></li><li><a href="https://www.youtube.com/user/MIDESIdotNET"><i class="fa fa-youtube"></i></a></li>                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</header>
+<div class="header3">
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://www.midesi.net/"><img src="logo_64f7849917bb1.png" alt="logo">
+          </a>
+       </div>
+        <div class="collapse navbar-collapse" id="navbar1">
+          
+<ul class="nav navbar-nav navbar-left">
+  <li><a href="https://www.midesi.net/">Home</a></li>
+  <li><a href="https://www.midesi.net/movies.html">Movies</a></li>
+        <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="https://www.midesi.net/live-tv.html">TV&nbsp;<span class="badge badge-danger" style="background-color: #d00202;">Live</span>
+    <span class="caret"></span></a>
+    <ul class="dropdown-menu">
+      <li><a href="https://www.midesi.net/live-tv.html">All Channels</a></li>
+              <li><a href="https://www.midesi.net/live-tv/category/live.html">Live</a></li>
+          </ul>
+  </li>
+                        
+    <li><a href="https://www.midesi.net/page/ott">OTT App</a></li>
+    <li><a href="https://www.midesi.net/page/iptvonline">World IPTV</a></li>
+                      
+    <li><a href="https://www.midesi.net/contact-us.html">Contact</a></li>
+              
+</ul>
+
+
+
+
+          
+        
+          <ul class="nav navbar-nav navbar-right">
+      <li class="hidden-xs-down"><a href="https://www.midesi.net/user/login">Account</a></li>
+            
+  <!-- language switch -->
+  <li class="dropdown"><a class="app-nav__item" href="#" data-toggle="dropdown" style="text-transform: capitalize;">English</a>
+      <ul class="dropdown-menu settings-menu dropdown-menu-right">
+                        <li><a class="dropdown-item" href="https://www.midesi.net/language/language_switch/en">English</a></li>
+                              
+      </ul>
+  </li>
+  <!-- END language -->
+</ul>
+
+
+   
+        <form class="navbar-form navbar-left" method="get" action="https://www.midesi.net/search">
+          <div class="input-group">
+            <input type="text" name="q" value autocomplete="off" id="search-input" class="form-control" placeholder="Search..">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+            </span>
+        </div></form>
+      </div>
+    </div>
+  </nav>
+</div>
+
+
+<!-- typehead search  -->
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#search-input").autocomplete({
+        source: "https://www.midesi.net//home/autocompleteajax",
+            focus: function( event, ui ) { 
+            return false;
+        },
+        select: function( event, ui ) {
+            window.location.href = ui.item.url;
+        }
+    }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+        var inner_html = '<a href="' + item.url + '" ><div class="list_item_container"><div class="image"><img src="' + item.image + '" ></div><div class="th-title"><b>' + item.title + '</b></div><br><div class="th-title">' + item.type + '</div></div></a>';
+        return $( "<li></li>" ).data( "item.autocomplete", item ).append(inner_html).appendTo( ul );
+    };
+});
+</script>
+
+<!-- bootstrap menu -->
+<script>
+    $(".dropdown").hover(function () {
+        $(this).addClass("open");
+    },function () {
+        $(this).removeClass("open");
+    });       
+
+  $('.search_tools').click(function(){                    
+    $(".search").toggleClass('open');
+    if($(".search").hasClass("open")){
+      $(this).html('<a href="#"><span class="fa fa-close"></span></a>');
+    }else{
+      $(this).html('<a href="#"><span class="fa fa-search"></span></a>');
+    }
+  });
+</script>
+<!-- bootstrap menu --> 
+
+            <div class="container">
+	<section class="page404" style="margin-top: 100px;">
+	    <p class="line1">404</p>
+	    <p class="line2">Look Like something wrong!The page you were looking for is not here.</p>
+	    <p><a href="https://www.midesi.net/" class="btn btn-success">Back to home</a></p>
+	    <div><img src="404.jpg" alt="404"></div>
+	</section>
+</div>
+
+<!-- Footer Area -->
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <div class="footer-about  ">
+                    <div class="movie-heading"> <span>About</span>
+                        <div class="disable-bottom-line"></div>
+                    </div>
+                    <img class="img-responsive" src="logo_64f7849917bb1.png" alt="Logo">
+                                    </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="bottom-post ">
+                    <div class="movie-heading"> <span>Useful Link</span>
+                        <div class="disable-bottom-line"></div>
+                    </div>
+                                    </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="sendus  ">
+                    <div class="movie-heading"> <span>Subscribe</span>
+                        <div class="disable-bottom-line"></div>
+                    </div>
+                    <div id="contact-form">
+                        <div class="expMessage"></div>
+                        <p class="text-light">Subscribe to our mailing list to receive updates on movies, series and news.</p>
+                            <input type="text" name="formInput[name]" id="name" class="form-control half-wdth-field pull-right" placeholder="Your name" required>
+                            <input type="email" name="formInput[email]" id="email" class="form-control half-wdth-field pull-right" placeholder="Email" required>
+                            <div>
+                            <div id="error" style="display: none;"></div>
+                                <a class="btn btn-success" id="subscribe-btn">Subscribe </a>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer Area -->
+
+<!-- copyright -->
+<div id="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 text-left">
+                <p> Copyright Text change it from Language > Language Name > Edit Phrase</p>
+            </div>
+            <div class="col-sm-6 text-right">
+                <ul class="footer-list">
+                                                                                        <li><a href="https://www.midesi.net/live-tv.html">Live TV</a></li>
+                                                    <li><a href="https://www.midesi.net/tv-series.html">Series</a></li>
+                                                 
+                                  
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- copyright -->
+<!-- ajax subscription -->
+<script type="text/javascript">
+    $(document).on('click', '#subscribe-btn', function() {
+        var email = $("#email").val();
+        var name = $("#name").val();
+        if(name==''){
+            name='New Subscriber';
+        }
+        var hasError = false;
+        var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+        if (email == '') {
+            var hasError = true;
+            $("#error").fadeIn();
+            $("#error").html('<p class="text-danger"><strong>Opps!!&nbsp;</strong>Email must not be blank.</p>');
+        } else if (!emailReg.test(email)) {
+            var hasError = true;
+            $("#error").html('<p class="text-danger">Enter a valid email address.</p>');
+        }
+
+        if (hasError != true) {
+            $.ajax({
+                type: 'POST',
+                url: 'https://www.midesi.net/user/subscribe',
+                data: "name="+name+"&email="+email,
+                dataType: 'json',
+                beforeSend: function() {
+                    $("#error").fadeOut();
+                    $("#subscribe-btn").html('Subscribing!!  Wait...');
+
+                },
+                success: function(response) {
+                    var subscribe_status = response.subscribe_status;
+                    if (subscribe_status == "success") {
+                        $("#error").fadeIn();
+                        $("#subscribe-btn").html('<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Subscribed');
+                        $("#error").html('<p class="text-success"><strong>Well done!</strong> Subscription successful.</p>');
+                    }else if (subscribe_status == "exist"){
+                        $("#error").fadeIn();
+                        $("#subscribe-btn").html('Subscribe');
+                        $("#error").html('<p class="text-warning">You already subscribe us earlier.</p>');
+                    }else {
+                        $("#error").fadeIn();
+                        $("#subscribe-btn").html('Subscribe');
+                        $("#error").html('<p class="text-warning"><strong>Opps!</strong> Subscription Successfully But Confirmation Email not Send.</p>');
+                    }
+                }
+            });
+        }
+    });
+</script>
+<!-- End ajax subscription -->        </div>
+    </div>
+    <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+    <div class="navbar_wrapper">
+      <nav class="footer_nav footer_nav--icons">
+        <ul>
+          <li>
+            <a href="https://www.midesi.net/">
+              <svg class="icon icon-home" viewBox="0 0 24 24" width="24" height="24">
+                <path fill="currentColor" d="M21.6 8.2l-9-7c-0.4-0.3-0.9-0.3-1.2 0l-9 7c-0.3 0.2-0.4 0.5-0.4 0.8v11c0 1.7 1.3 3 3 3h14c1.7 0 3-1.3 3-3v-11c0-0.3-0.1-0.6-0.4-0.8zM14 21h-4v-8h4v8zM20 20c0 0.6-0.4 1-1 1h-3v-9c0-0.6-0.4-1-1-1h-6c-0.6 0-1 0.4-1 1v9h-3c-0.6 0-1-0.4-1-1v-10.5l8-6.2 8 6.2v10.5z"/>
+              </svg>
+              <span>Home</span>
+            </a>
+          </li>
+                                                    <li>
+                        <a href="https://www.midesi.net/user/login">
+                          <svg class="icon icon-login" viewBox="0 0 24 24" width="24" height="24">
+                            <g fill="currentColor">
+                              <path d="M16 14h-8c-2.8 0-5 2.2-5 5v2c0 0.6 0.4 1 1 1s1-0.4 1-1v-2c0-1.7 1.3-3 3-3h8c1.7 0 3 1.3 3 3v2c0 0.6 0.4 1 1 1s1-0.4 1-1v-2c0-2.8-2.2-5-5-5z"/>
+                              <path d="M12 12c2.8 0 5-2.2 5-5s-2.2-5-5-5-5 2.2-5 5 2.2 5 5 5zM12 4c1.7 0 3 1.3 3 3s-1.3 3-3 3-3-1.3-3-3 1.3-3 3-3z"/>
+                            </g>
+                          </svg>
+                          <span>Login</span>
+                        </a>
+                      </li>
+                                        <li>
+            <a href="https://www.midesi.net/movies.html">
+              <svg class="icon icon-movies" width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"/>
+                <line x1="7" y1="2" x2="7" y2="22"/>
+                <line x1="17" y1="2" x2="17" y2="22"/>
+                <line x1="2" y1="12" x2="22" y2="12"/>
+                <line x1="2" y1="7" x2="7" y2="7"/>
+                <line x1="2" y1="17" x2="7" y2="17"/>
+                <line x1="17" y1="17" x2="22" y2="17"/>
+                <line x1="17" y1="7" x2="22" y2="7"/>
+              </svg>
+              <span>Movies</span>
+            </a>
+          </li>
+                      <li>
+            <a href="#search">
+              <svg class="icon icon-search" viewBox="0 0 24 24" width="24" height="24">
+                <path fill="currentColor" d="M21.7 20.3l-3.7-3.7c1.2-1.5 2-3.5 2-5.6 0-5-4-9-9-9s-9 4-9 9c0 5 4 9 9 9 2.1 0 4.1-0.7 5.6-2l3.7 3.7c0.2 0.2 0.5 0.3 0.7 0.3s0.5-0.1 0.7-0.3c0.4-0.4 0.4-1 0-1.4zM4 11c0-3.9 3.1-7 7-7s7 3.1 7 7c0 1.9-0.8 3.7-2 4.9 0 0 0 0 0 0s0 0 0 0c-1.3 1.3-3 2-4.9 2-4 0.1-7.1-3-7.1-6.9z"/>
+              </svg>
+              <span>Search</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div id="search" class>
+        <button type="button" class="close">×</button>
+        <form method="get" action="https://www.midesi.net/search" novalidate>
+            <input type="search" name="q" value autocomplete="off" id="search-input2" placeholder="Search.." class="ui-autocomplete-input">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+
+    <script type="text/javascript" charset="utf8" src="../js/bootstrap3-typeahead.min.js"></script>
+    <!-- lazy image loading -->
+    <script type="text/javascript" src="../js/jquery.lazy.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.lazy.plugins.min.js"></script>
+    <!-- end lazy image loading -->
+    <!--sweet alert2 JS -->
+    <link href="../css/sweetalert2.min.css" rel="stylesheet">
+    <!-- END sweet alert2 JS -->
+    <!-- Scripts -->    
+    
+      
+    <script src="../js/ovoo.js"></script>  
+    <script src="../js/bootstrap.min.js"></script>
+    
+            <!-- Google analytics -->
+        <script>
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function() {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-157100081-2', 'auto');
+            ga('send', 'pageview');
+        </script>
+        <!-- END Google analytics -->
+    
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58d74b9dcfd76af7"></script>
+        <!--sweet alert2 JS -->
+    <script src="../js/sweetalert2.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            var success_message = '';
+            var error_message = '';
+            if (success_message != '') {
+                swal('Success!',success_message,'success');
+            }
+            if (error_message != '') {
+                swal('Error!',error_message,'error');
+            }
+        });
+    </script>
+        <!-- oneSignal -->
+    <script src="../js/OneSignalSDK.js" async></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            appId: "91e4f5f9-05cd-4371-85c9-c9b61ccb8f91",
+            subdomainName: 'push',
+            autoRegister: false,
+            promptOptions: {
+                actionMessage: "MIDESI like to show you notifications for the latest news.",
+                acceptButtonText: "ALLOW",
+                cancelButtonText: "NO THANKS"
+            }
+        }]);
+    </script>
+    <script>
+        function subscribe() {
+            OneSignal.push(["registerForPushNotifications"]);
+            event.preventDefault();
+        }
+        function unsubscribe(){
+            OneSignal.setSubscription(true);
+        }
+
+        var OneSignal = OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.on('subscriptionChange', function (isSubscribed) {
+                console.log("The user's subscription state is now:", isSubscribed);
+                OneSignal.sendTag("user_id","4444", function(tagsSent)
+                {
+                    console.log("Tags have finished sending!");
+                });
+            });
+
+            var isPushSupported = OneSignal.isPushNotificationsSupported();
+            if (isPushSupported)
+            {
+                OneSignal.isPushNotificationsEnabled().then(function(isEnabled)
+                {
+                    if (isEnabled)
+                    {
+                        console.log("Push notifications are enabled!");
+
+                    } else {
+                        OneSignal.showHttpPrompt();
+                        console.log("Push notifications are not enabled yet.");
+                    }
+                });
+
+            } else {
+                console.log("Push notifications are not supported.");
+            }
+        });
+    </script>
+</body>
+</html>
